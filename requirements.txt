@@ -1,0 +1,4 @@
+ta
+pandas
+python-telegram-bot
+requests
